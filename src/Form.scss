@@ -1,0 +1,52 @@
+
+  
+  .boxof {
+    transition-duration: 1s;
+    -o-transition-duration: 1s;
+
+  }
+  
+  .containerof {
+    width: 500px;
+    margin: auto;
+  }
+  
+  
+  #iamButton {
+    width: 90px;
+    height: 40px;
+    padding: 10px;
+    margin: -8px 0;
+    background-color: #e41b17;
+    color: #fff;
+    font-size: 18px;
+    font-family: Arial;
+    border: 1px solid #e41b17;
+    border-radius: 4px;
+    float: right;
+    position: relative;
+    bottom: -150px;
+    cursor: pointer;
+    -webkit-transition-duration: 1s;
+    -moz-transition-duration: 1s;
+    -o-transition-duration: 1s;
+    transition-duration: 1s;
+  }
+  
+.inputTypetextarea{
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 30px 0 30px 0;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  font-size: 16px;
+  font-family: Arial;
+  position: relative;
+  left: -600px;
+}
+
+.inputTypetextarea::-webkit-scrollbar{
+  display: none;
+}
+
